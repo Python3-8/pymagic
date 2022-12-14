@@ -5,7 +5,7 @@
 To download and set up PyMagic, open a terminal or command prompt window and type the following:
 
 ```sh
-$ git clone git://github.com/Python3-8/pymagic.git  # downloads PyMagic
+$ git clone https://github.com/Python3-8/pymagic  # downloads PyMagic
 $ cd pymagic  # enters the PyMagic directory
 $ python3 -m pip install -r requirements.txt  # installs the dependencies that PyMagic requires
 ```
